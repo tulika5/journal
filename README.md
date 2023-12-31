@@ -23,4 +23,3 @@
 <span style="color: #A020F0; font-family: 'Segoe Script' ;font-size: 2em"> November</span> 
 <span style="color: #A020F0; font-family: 'Segoe Script' ;font-size: 2em"> December</span> 
 - [ ] Mercury
-- [x] Venus
