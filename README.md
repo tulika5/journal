@@ -1,6 +1,6 @@
 <span style="color: #A020F0; font-family: 'Segoe Script' ;font-size: 2em"> January</span>
 ## Jan 1
-[] build github pages
+- [x] build github pages
 [Repo link]https://github.com/tulika5/journal)  
 * create new github repo  
 * create a config.yml file setting a theme and title etc  
@@ -22,3 +22,5 @@
 <span style="color: #A020F0; font-family: 'Segoe Script' ;font-size: 2em"> October</span> 
 <span style="color: #A020F0; font-family: 'Segoe Script' ;font-size: 2em"> November</span> 
 <span style="color: #A020F0; font-family: 'Segoe Script' ;font-size: 2em"> December</span> 
+- [ ] Mercury
+- [x] Venus
